@@ -70,7 +70,7 @@ if (isset($_POST['login_submit'])) {
 
 <body style="background-color:#31326f">
     <nav class="navbar navbar-expand-lg navbar-dark my-bg">
-        <a class="navbar-brand" href="index.php">Campus Cauldron</a>
+        <a class="navbar-brand" href="index.php">Campus Management</a>
     </nav>
 
     <div class="container">

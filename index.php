@@ -7,7 +7,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Welcome to Campus Cauldron!</title>
+  <title>Welcome to Campus Management System!</title>
   <!-- SPACE FOR FONTS -->
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Bree+Serif&family=Montserrat:wght@800&family=Raleway:ital,wght@1,300&family=Roboto+Slab:wght@600&family=Ubuntu:ital,wght@1,300&display=swap" rel="stylesheet">
@@ -138,7 +138,7 @@
       <div class="row">
         <div class="col-lg-6">
           <h1 id="intro-head">Its always nice to have someone to answer your questions.</h1>
-          <h4 id="intro-text">Campus Cauldron gives you just that!</h4>
+          <h4 id="intro-text">Campus Management System gives you just that!</h4>
         </div>
         <div class="col-lg-6">
           <img id="intro-img" src="images/intro_img.jpeg" alt="">

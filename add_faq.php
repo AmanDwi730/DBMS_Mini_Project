@@ -89,7 +89,7 @@ if (isset($_POST['submit'])) {
                 ?>
                 <!-- NAVBAR -->
                 <nav class="navbar navbar-expand-lg navbar-dark my-bg">
-                    <a class="navbar-brand" href="index.php">Campus Cauldron</a>
+                    <a class="navbar-brand" href="index.php">Campus Management</a>
                 </nav>
 
                 <div class="container" style="margin-top:50px;">

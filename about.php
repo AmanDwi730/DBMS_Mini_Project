@@ -109,7 +109,7 @@ html {
 </div>
 
  <!-- <h2 style="text-align:center; margin-top:5rem;" class="map-head" >Our Team</h2> -->
-<div class="row">
+<!-- <div class="row">
   <div class="col-lg-3">
     <div class="card">
   <img src="images/Madhav.jpeg" alt="Avatar" style="width:100%">
@@ -118,7 +118,7 @@ html {
     <p class='desc'>Student at BNMIT</p>
   </div>
 </div>
-  </div>
+  </div> -->
   
 
 </div>
