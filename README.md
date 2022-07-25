@@ -28,7 +28,7 @@ Interested users can ask their questions here after signing up.
 ------------
 List of suggested questions to be answered by users.
  
-![Answer_page](/Snapshots/Ques_shot.png "Post your answers")
+![Answer_page](/Snapshots/Q&A.jpeg "Post your answers")
   
   
  * ## `NOTICES`-
