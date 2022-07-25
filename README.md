@@ -59,13 +59,6 @@ A carousal of numerous events and fests alongwith details.
 ![Events panel](/Snapshots/Fest_shot.png "College fests and activities")
  
  
- * ## `FAQ`-
-------------
-A collapse constituting of the frequently asked questions.
- 
- ![FAQ's panel](/Snapshots/Faq_shot.png "An answered list of commonly asked questions")
- 
- 
  * ## `COLLEGE MAP`-
 ------------
 An iframe of map showing nooks and corners for the detailed view of the campus.
