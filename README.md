@@ -49,7 +49,7 @@ A collage composed of various pictures of campus life.
 ------------
 Different clubs and councils operating in the college.
 
-![Clubs panel](/Snapshots/Clubs_shot.png "Extracurriculars within the college")
+![Clubs panel](/Snapshots/Club.jpeg "Extracurriculars within the college")
 
 
  * ## `EVENTS & FESTS`-
