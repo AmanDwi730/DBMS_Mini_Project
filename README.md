@@ -100,12 +100,12 @@ Web Applications are dynamic web sites combined with server side programming whi
 
 # OUR TEAM : `CHAOS`
 
-| Team Chaos  | Members | Branch  | Year |
+| Team | Members | Branch  | Year |
 | ------------- | ------------- | ------------- | ------------- |
-| I  | Ashutosh Dwivedi  | Electrical Engineering  | Second Year  |
-| II  | Mahima Rai `(Leader)`  | Electronics & Communication Engineering  | Second Year  |
-| III  | Kshitij Sharma  | Electronics & Communication Engineering  | Second Year  |
-| IV  | Rati Gupta  | Information Technology  | Second Year  |
+| I   | Aman Dwivedi  | Information Science and Engineering  | Third Year  |
+| II  | Madhav Kumar `(Lead)`  | Computer Science and Engineering  | Third Year  |
+| III | Prabhanshu Shukla | Information Science and Engineering  | Third Year  |
+| IV  | Srihari S  | Information Science and Engineering  | Third Year  |
 ***
 
 
