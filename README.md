@@ -35,7 +35,7 @@ List of suggested questions to be answered by users.
 ------------
 A panel for highlighting all the latest updates and announcemnts.
  
-![Notice panel](/Snapshots/Notice_shot.png "Recent notices for users")
+![Notice panel](/Snapshots/Notice.jpeg "Recent notices for users")
  
  
  * ## `Gallery`-
