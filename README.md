@@ -42,7 +42,7 @@ A panel for highlighting all the latest updates and announcemnts.
 ------------
 A collage composed of various pictures of campus life.
  
-![Caught within the frames](/Snapshots/ Caught within the frame.jpeg "A frame of beautiful shots")
+![Caught within the frames](/Snapshots/ Gallery.jpeg "A frame of beautiful shots")
  
  
  * ## `CLUBS & COUNCILS`-
@@ -56,7 +56,7 @@ Different clubs and councils operating in the college.
 ------------
 A carousal of numerous events and fests alongwith details.
 
-![Events panel](/Snapshots/ Events.jpeg "College fests and activities")
+![Events panel](/Snapshots/Events.jpeg "College fests and activities")
  
  
  * ## `COLLEGE MAP`-
