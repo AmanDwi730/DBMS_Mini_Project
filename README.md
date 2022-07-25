@@ -8,8 +8,7 @@ CONTENTS OF THIS PROJECT
 Our project aims to share the precise amount of information that would be beneficial to many BNMITIANS throughout their Campus life!!
 We want to bridge the gap between students who have knowledge and those who seek for it.
 Campus Cauldron's motto is to bring BNMITians together to ask, answer and seek information brewing in the same cauldron. Their regular visit on our website will be most valued.
-  ![Homepage_introduction](/Snapshots/![WhatsApp Image 2022-07-25 at 7 11 13 PM (1)](https://user-images.githubusercontent.com/97251958/180792085-fdd607f6-05fc-4a39-8bb0-1582667538b8.jpeg)
-.png "Introduction")
+  ![Homepage_introduction](/Snapshots/![Intro].jpeg) "Introduction")
 
  * ## `SIGN-UP/SIGN-IN`-
 ------------
