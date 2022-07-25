@@ -42,7 +42,7 @@ A panel for highlighting all the latest updates and announcemnts.
 ------------
 A collage composed of various pictures of campus life.
  
-![Caught within the frames](/Snapshots/Caught within the frame.jpeg "A frame of beautiful shots")
+![Caught within the frames](/Snapshots/ Caught within the frame.jpeg "A frame of beautiful shots")
  
  
  * ## `CLUBS & COUNCILS`-
