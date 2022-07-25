@@ -56,7 +56,7 @@ Different clubs and councils operating in the college.
 ------------
 A carousal of numerous events and fests alongwith details.
 
-![Events panel](/Snapshots/Event & Fests.jpeg "College fests and activities")
+![Events panel](/Snapshots/ Events.jpeg "College fests and activities")
  
  
  * ## `COLLEGE MAP`-
